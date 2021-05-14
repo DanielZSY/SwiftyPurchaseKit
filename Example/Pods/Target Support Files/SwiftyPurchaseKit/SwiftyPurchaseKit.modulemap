@@ -1,0 +1,6 @@
+framework module SwiftyPurchaseKit {
+  umbrella header "SwiftyPurchaseKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
